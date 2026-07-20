@@ -34,6 +34,5 @@ flatpak install -y flathub \
     net.davidotek.pupgui2 \
     org.fedoraproject.MediaWriter \
     org.prismlauncher.PrismLauncher \
-    org.vinegarhq.Sober
 
 echo "don't nuke this system in 2h."
