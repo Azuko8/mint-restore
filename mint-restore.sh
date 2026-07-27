@@ -4,7 +4,6 @@
 echo "OS : Linux Mint"
 echo "Remember to install:"
 echo " - Signal"
-echo " - Element"
 echo " - osu!"
 echo " - Vesktop"
 echo " - ytm"
