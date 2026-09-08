@@ -16,7 +16,8 @@ sudo apt install -y \
     git \
     fish \
     kitty \
-    steam
+    steam \
+    micro
 
 echo "checking for flathub source"
 
