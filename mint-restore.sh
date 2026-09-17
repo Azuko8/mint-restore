@@ -16,7 +16,8 @@ sudo apt install -y \
     git \
     fish \
     steam \
-    micro
+    micro \
+    obs-studio
 
 echo "checking for flathub source"
 
@@ -26,12 +27,11 @@ https://dl.flathub.org/repo/flathub.flatpakrepo
 echo "installing flatpaks"
 
 flatpak install -y flathub \
-    com.notesnook.Notesnook \
-    com.obsproject.Studio \
     org.keepassxc.KeePassXC \
     it.mijorus.gearlever \
     net.davidotek.pupgui2 \
-    org.fedoraproject.MediaWriter \
     org.prismlauncher.PrismLauncher \
+    io.github.debasish_patra_1987.linuxthemestore \
+    org.localsend.localsend_app 
 
 echo "don't nuke this system in 2h."
