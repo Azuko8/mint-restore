@@ -15,7 +15,6 @@ echo "installing apt packages"
 sudo apt install -y \
     git \
     fish \
-    kitty \
     steam \
     micro
 
