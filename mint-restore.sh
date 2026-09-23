@@ -21,7 +21,7 @@ sudo apt install -y \
     gpg \
     extrepo > /dev/null
 
-echo "==> Adding LibreWolf repository..."
+echo "Adding LibreWolf repository..."
 
 sudo extrepo enable librewolf > /dev/null
 sudo extrepo update librewolf > /dev/null
