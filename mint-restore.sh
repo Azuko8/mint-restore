@@ -55,7 +55,8 @@ flatpak install -y flathub \
     net.davidotek.pupgui2 \
     org.prismlauncher.PrismLauncher \
     io.github.debasish_patra_1987.linuxthemestore \
-    org.localsend.localsend_app > /dev/null
+    org.localsend.localsend_app \
+    com.github.tchx84.Flatseal > /dev/null
 
 echo
 echo "Restore complete."
